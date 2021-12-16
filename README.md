@@ -1,3 +1,4 @@
 # Demo for Class 03
 
-This was done by John at 7:35pm
+- [Craps Information](craps.md)
+- [Meet the Cokos Family](stuff/family.md)
